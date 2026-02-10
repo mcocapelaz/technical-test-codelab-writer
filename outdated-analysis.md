@@ -394,7 +394,6 @@ The outdated fragment contained multiple deprecated dependencies, annotations, a
 5. Incorrect HTTP status codes for REST operations
 
 By updating to modern standards, the code becomes more maintainable, secure, and compatible with current Java and Spring Boot ecosystems.
-```
 
-***
+
 
